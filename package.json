@@ -3,7 +3,7 @@
   "description": "sets a countdown timer that triggers a user-defined function",
   "author": "FcScripters <fcscripters@gmail.com> (http://github.com/fcscripters)",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "react-countdown.js",
   "scripts": {
     "build": "jsx react-countdown.jsx > react-countdown.js",

@@ -2,6 +2,7 @@
   "name": "react-the-final-countdown",
   "description": "sets a countdown timer that triggers a user-defined function",
   "author": "FcScripters <fcscripters@gmail.com> (http://github.com/fcscripters)",
+  "license": "MIT",
   "version": "0.1.0",
   "main": "react-countdown.js",
   "scripts": {

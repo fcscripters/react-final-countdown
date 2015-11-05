@@ -1,0 +1,22 @@
+{
+  "name": "react-the-final-countdown",
+  "description": "sets a countdown timer that triggers a user-defined function",
+  "author": "FcScripters <fcscripters@gmail.com> (http://github.com/fcscripters)",
+  "version": "0.1.0",
+  "main": "react-countdown.js",
+  "scripts": {
+    "build": "jsx react-countdown.jsx > react-countdown.js",
+    "prepublish": "npm run build"
+  },
+  "browserify": {
+    "transform": [
+      "reactify"
+    ]
+  },
+  "devDependencies": {
+    "react-tools": "^0.13.3"
+  },
+  "dependencies": {
+    "react": "^0.14.2"
+  }
+}

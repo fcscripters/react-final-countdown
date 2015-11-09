@@ -35,7 +35,7 @@ Timer with Seconds Only.
 ![screen shot 2015-11-05 at 17 34 55](https://cloud.githubusercontent.com/assets/12072531/10976565/64aef75a-83e4-11e5-9e2d-60823bb4981a.png)  
 Timer with Minutes.  
 ![screen shot 2015-11-05 at 17 35 14](https://cloud.githubusercontent.com/assets/12072531/10976567/66ddbc82-83e4-11e5-989c-1962c8f22982.png)  
-Pop up when timer is up.  
+Pop up when timer is up, the developer can edit the message.  
 ![screen shot 2015-11-05 at 17 40 47](https://cloud.githubusercontent.com/assets/12072531/10976571/68d610b6-83e4-11e5-8dfa-3d12e2635a0f.png)  
 
 

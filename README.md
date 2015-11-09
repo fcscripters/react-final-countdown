@@ -1,6 +1,8 @@
 # react-final-countdown
 Countdown react component for publishing on NPM
 
+[![Version npm](https://img.shields.io/npm/v/pm2.svg?style=flat-square)](https://www.npmjs.com/package/react-the-final-countdown)
+
 ## Installation
 
 ```
@@ -21,10 +23,10 @@ After installation add the following to your main js file i.e. `app.js`
 var Countdown = require('react-the-final-countdown');
 ```
 
-And add the Countdown component where you are returning your HTML: 
+And add the Countdown component where you are returning your HTML:
 
 ```javascript
-<Countdown min = {3} msg ="Close the bloody fridge" afterUnmount = {this.afterUnmount}/>
+<Countdown min = {3} msg ="Close the bloody fridge" afterTimeOut = {this.afterTimeOut}/>
 ```
 
 - min is the number of minutes you'd like to start the countdown from.

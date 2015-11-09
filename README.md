@@ -11,7 +11,7 @@ npm install react-the-final-countdown --save
 
 ## Description
 
-A React component that allows a countdown timer to be added to any react webpage in the right hand corner of the site.
+This React component is a countdown timer that can be added to any react webpage in the top right hand corner of the site.
 
 The timer allows developers of a website to limit the users time on a particular webpage. Examples of when this might be useful include work situations where motivation is a problem. At Founders and Coders we often have limited research time prior to discussion and a timer on a website could help enforce the principle. It can also be useful for shopping checkout pages where an item is only reserved for a certain amount of time.
 

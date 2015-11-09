@@ -11,7 +11,7 @@ var Countdown = React.createClass({
     return {time: this.props.min*60}
   },
 
-  update: function(){
+  updateTime: function(){
     var newTime = this.state.time - 1;
     this.setState({time:newTime});
     if(this.state.time ===0){
@@ -111,7 +111,7 @@ var Countdown = React.createClass({
     }
   },
   componentDidMount: function(){
-    this.decr = setInterval(this.update,1000)
+    this.decr = setInterval(this.updateTime,1000)
   }
 })
 
